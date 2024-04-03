@@ -1,0 +1,33 @@
+/* details.css */
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    color: rgb(2, 2, 93);
+    font-size: larger;
+    color: rgb(2, 2, 93);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+
+h3 {
+    color: rgb(2, 2, 93);
+}
+
+p {
+    color: rgb(2, 2, 93);
+}
